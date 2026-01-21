@@ -5,7 +5,7 @@
 
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/edosuljic/JWipe)
-  - [Active Directory Bulk User Creation]
+  - [Active Directory Bulk User Creation] (https://github.com/edosuljic/AD)
   - [FIM (File Integrity Monitor)]
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)]
