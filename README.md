@@ -8,9 +8,9 @@
   - [Active Directory Bulk User Creation] (https://github.com/edosuljic/AD)
   - [FIM (File Integrity Monitor)] (https://github.com/edosuljic/fim)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]
-  - [Ransomware Proof of Concept (Decrypter)]
-  - [Keylogger with Email Capability](
+  - [Ransomware Proof of Concept (Encrypter)] (https://github.com/edosuljic/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)] (https://github.com/edosuljic/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/edosuljic/Key-Logger)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)] (https://github.com/edosuljic/Package-Delivery-Pathfinding)
 
