@@ -14,6 +14,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)] (https://github.com/edosuljic/Package-Delivery-Pathfinding)
 
+<h2>👨‍💻 AI Projects:</h2>
+- <b>HTML</b>
+  - [Website Landing Page (created with Cursor)] ((https://github.com/edosuljic/Website-HTML-with-AI))
+
 
 <h2> 🤳 Connect with me:</h2>
 
